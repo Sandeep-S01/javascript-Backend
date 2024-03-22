@@ -1,6 +1,7 @@
 {
   "name": "jsbackend",
   "version": "1.0.0",
+  "type": "module",
   "description": "Youtube clone backend with javascript",
   "main": "index.js",
   "scripts": {
