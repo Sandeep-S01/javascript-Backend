@@ -11,5 +11,8 @@
     "javascript"
   ],
   "author": "Sandeep Singh",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
 }
